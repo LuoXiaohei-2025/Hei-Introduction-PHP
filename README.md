@@ -1,4 +1,4 @@
-# Hei Introduction v1.0b
+# Hei Introduction
 
 一个功能丰富的个人主页系统，集成个人信息展示、项目作品、技术文章、在线捐款等模块。采用现代化毛玻璃设计风格，注重用户体验与性能优化。
 
@@ -158,6 +158,8 @@ Hei-Introduction/
 | 数据库连接错误 | 检查 config.inc.php 配置，确认 MySQL 服务运行正常 |
 | 易支付无法跳转 | 检查接口地址、PID、Key 是否正确，确认商户已审核通过 |
 
+## 上游公示
+GreenFlew（已删库）
 ## 许可证
 
 **GPLv3**
