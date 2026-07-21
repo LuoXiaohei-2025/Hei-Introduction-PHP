@@ -1,5 +1,7 @@
 # Hei Introduction
 
+[English](https://github.com/LuoXiaohei-2025/Hei-Introduction-PHP/blob/main/README_EN.md)
+
 一个功能丰富的个人主页系统，集成个人信息展示、项目作品、技术文章、在线捐款等模块。采用现代化毛玻璃设计风格，注重用户体验与性能优化。
 
 ## 功能一览
